@@ -39,6 +39,20 @@
 
 كل تغيير يجريه SonarFix على الصوت يُسجَّل، ويمكن التراجع عنه عبر **استعادة إعدادات الصوت** أو بإزالة البرنامج.
 
+## صور البرنامج
+
+### العربية
+
+<p align="center">
+  <img src="docs/screenshots/arabic.png" width="720" alt="نافذة إعدادات SonarFix بالعربية">
+</p>
+
+### الإنجليزية
+
+<p align="center">
+  <img src="docs/screenshots/english.png" width="720" alt="نافذة إعدادات SonarFix بالإنجليزية">
+</p>
+
 ## التنزيل
 
 نزّل أحدث ملف `SonarFix-Setup-x.y.exe` من صفحة [**الإصدارات**](https://github.com/tuxp1/SonarFix/releases/latest). كل إصدار يذكر بصمة SHA-256 لملف التثبيت، لتتأكد من سلامة الملف:
@@ -89,10 +103,6 @@ Get-FileHash .\SonarFix-Setup-1.0.0.exe -Algorithm SHA256
 - **الأمان:** كل تغيير يُحفظ في سجل استعادة داخل `%LOCALAPPDATA%\SonarFix`. الإيقاف والاستعادة وإزالة التثبيت تعيد ما غيّره SonarFix.
 
 لا يلتقط SonarFix الصوت ولا يسجّله ولا يرفعه، ولا يرسل بيانات التشخيص إلى أي مكان. الاتصال الوحيد بالإنترنت هو التحقق الاختياري من التحديثات عبر GitHub Releases في المستودع الرسمي `tuxp1/SonarFix`.
-
-## صور البرنامج
-
-ستُضاف هنا صور للبرنامج والمثبّت.
 
 ## حل المشكلات
 
