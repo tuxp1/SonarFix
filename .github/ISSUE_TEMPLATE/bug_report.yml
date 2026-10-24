@@ -1,0 +1,73 @@
+name: Bug report
+description: Something in SonarFix doesn't work as expected.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please search existing issues first.
+        For security problems, use private reporting instead (see SECURITY.md).
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Turn on ...
+        2. Start screen sharing in Discord ...
+        3. ...
+    validations:
+      required: true
+  - type: dropdown
+    id: feature
+    attributes:
+      label: Which feature is affected?
+      multiple: true
+      options:
+        - Prevent Duplicate Mic Audio
+        - Disable Game & Chat
+        - Audio device health check
+        - System tray
+        - Update checker
+        - Installer or uninstaller
+        - Arabic / English text or layout
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: sonarfix-version
+    attributes:
+      label: SonarFix version
+      description: Shown in Advanced Settings → About SonarFix.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      placeholder: Windows 11 24H2
+    validations:
+      required: true
+  - type: input
+    id: gg-version
+    attributes:
+      label: SteelSeries GG version
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Log or diagnostics
+      description: |
+        Relevant lines from %LOCALAPPDATA%\SonarFix\SonarFix.log, or attach a file from Advanced Settings → Export Diagnostics.
+        These contain audio device names and IDs from your PC; remove anything you don't want to share.
+      render: text
+    validations:
+      required: false

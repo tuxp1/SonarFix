@@ -1,0 +1,4 @@
+<Grid xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Width="34" Height="28" FlowDirection="LeftToRight" Focusable="False">
+ <Border Width="21" Height="21" HorizontalAlignment="Left" VerticalAlignment="Top" CornerRadius="4" Background="#245C58" BorderBrush="#71D6C8" BorderThickness="1"><TextBlock Text="A" FontSize="13" Foreground="#EDF2FA" HorizontalAlignment="Center" VerticalAlignment="Center"/></Border>
+ <Border Width="21" Height="21" HorizontalAlignment="Right" VerticalAlignment="Bottom" CornerRadius="4" Background="#1A2230" BorderBrush="#71D6C8" BorderThickness="1"><TextBlock Text="ع" FontSize="13" Foreground="#EDF2FA" HorizontalAlignment="Center" VerticalAlignment="Center"/></Border>
+</Grid>

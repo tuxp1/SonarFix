@@ -1,0 +1,570 @@
+{
+  "prevent_duplicate_mic_audio": {
+    "ar": "منع تكرار صوت الميكروفون",
+    "en": "Prevent Duplicate Mic Audio"
+  },
+  "prevents_duplicate_mic_audio_during_discord_screen_s": {
+    "ar": "يمنع تكرار صوتك أثناء مشاركة الشاشة في Discord، دون كتم مدخل الميكروفون الأساسي.",
+    "en": "Prevents duplicate mic audio during Discord screen sharing without muting your main microphone input."
+  },
+  "disable_game_chat": {
+    "ar": "تعطيل Game & Chat",
+    "en": "Disable Game & Chat"
+  },
+  "disables_sonar_game_and_chat_outputs_while_keeping_y": {
+    "ar": "يعطّل مخرجي Game & Chat في Sonar، مع إبقاء الميكروفون متاحًا.",
+    "en": "Disables Sonar Game and Chat outputs while keeping your microphone available."
+  },
+  "audio_output_device": {
+    "ar": "جهاز إخراج الصوت",
+    "en": "Audio Output Device"
+  },
+  "set_as_windows_default_output": {
+    "ar": "تعيينه كمخرج Windows الافتراضي",
+    "en": "Set as Windows Default Output"
+  },
+  "start_with_windows": {
+    "ar": "التشغيل مع Windows",
+    "en": "Start with Windows"
+  },
+  "save_changes": {
+    "ar": "حفظ التغييرات",
+    "en": "Save Changes"
+  },
+  "export_diagnostics": {
+    "ar": "تصدير التشخيص",
+    "en": "Export Diagnostics"
+  },
+  "open_logs": {
+    "ar": "فتح السجلات",
+    "en": "Open Logs"
+  },
+  "about_sonarfix": {
+    "ar": "حول SonarFix",
+    "en": "About SonarFix"
+  },
+  "restore_audio_settings": {
+    "ar": "استعادة إعدادات الصوت",
+    "en": "Restore Audio Settings"
+  },
+  "advanced_settings": {
+    "ar": "الإعدادات الإضافية",
+    "en": "Advanced Settings"
+  },
+  "uninstall_sonarfix": {
+    "ar": "إزالة SonarFix",
+    "en": "Uninstall SonarFix"
+  },
+  "the_audio_operation_is_still_running_check_the_log_b": {
+    "ar": "عملية الصوت ما زالت قيد التنفيذ. افحص السجل قبل المحاولة مجددًا.",
+    "en": "The audio operation is still running. Check the log before retrying."
+  },
+  "ok": {
+    "ar": "حسناً",
+    "en": "OK"
+  },
+  "changes_saved": {
+    "ar": "تم حفظ التغييرات.",
+    "en": "Changes saved."
+  },
+  "unavailable_saved_output": {
+    "ar": "مخرج محفوظ غير متاح",
+    "en": "Unavailable saved output"
+  },
+  "select_an_active_physical_output_first": {
+    "ar": "اختر مخرج صوت فعليًا متاحًا أولًا.",
+    "en": "Select an active physical output first."
+  },
+  "options_were_not_fully_applied_check_sonarfix_log_fo": {
+    "ar": "لم تُطبّق الخيارات بالكامل. افحص SonarFix.log لمعرفة السبب؛ سجل الاستعادة محفوظ.",
+    "en": "Options were not fully applied. Check SonarFix.log for the exact reason; the recovery journal is preserved."
+  },
+  "uninstaller_not_found_run_the_installer_to_repair_th": {
+    "ar": "ملف الإزالة غير موجود. شغّل المثبّت لإصلاح التثبيت.",
+    "en": "Uninstaller not found. Run the installer to repair this installation."
+  },
+  "sonarfix_did_not_stop_check_the_logs": {
+    "ar": "لم يتوقف SonarFix. افحص السجلات.",
+    "en": "SonarFix did not stop. Check the logs."
+  },
+  "diagnostic_export_failed_check_sonarfix_log": {
+    "ar": "فشل تصدير التشخيص. افحص SonarFix.log.",
+    "en": "Diagnostic export failed. Check SonarFix.log."
+  },
+  "restore": {
+    "ar": "استعادة",
+    "en": "Restore"
+  },
+  "cancel": {
+    "ar": "إلغاء",
+    "en": "Cancel"
+  },
+  "restoration_is_incomplete_recovery_records_are_retai": {
+    "ar": "الاستعادة غير مكتملة. تم الاحتفاظ بسجل الاستعادة. افتح السجلات للتفاصيل.",
+    "en": "Restoration is incomplete. Recovery records are retained. Open logs for details."
+  },
+  "some_audio_changes_are_still_pending_restoration_ope": {
+    "ar": "بعض تغييرات الصوت ما زالت بانتظار الاستعادة. افتح السجلات.",
+    "en": "Some audio changes are still pending restoration. Open logs."
+  },
+  "recorded_audio_changes_restored_audio_features_are_o": {
+    "ar": "تمت استعادة تغييرات الصوت المسجلة وإيقاف ميزتي الصوت.",
+    "en": "Recorded audio changes restored. Audio features are off."
+  },
+  "open_sonarfix_settings": {
+    "ar": "فتح إعدادات SonarFix",
+    "en": "Open SonarFix settings"
+  },
+  "cancel_sonarfix_setup": {
+    "ar": "هل تريد إلغاء إعداد SonarFix؟",
+    "en": "Cancel SonarFix setup?"
+  },
+  "choose_install_folder": {
+    "ar": "اختر مجلد التثبيت",
+    "en": "Choose install folder"
+  },
+  "no_installation_found": {
+    "ar": "لا يوجد تثبيت حالي.",
+    "en": "No installation found."
+  },
+  "audio_restoration_failed_the_recovery_settings_have_": {
+    "ar": "تعذرت استعادة الصوت. تم الاحتفاظ بإعدادات الاستعادة.",
+    "en": "Audio restoration failed. The recovery settings have been retained."
+  },
+  "legacy_sonarfix_is_stopped_and_startup_is_removed_al": {
+    "ar": "تم إيقاف SonarFix القديم وإزالة تشغيله التلقائي. هل تريد حذف ملفه وإعداداته وسجله أيضًا؟",
+    "en": "Legacy SonarFix is stopped and startup is removed. Also delete its executable, settings and logs?"
+  },
+  "legacy_sonarfix_removed": {
+    "ar": "تمت إزالة SonarFix القديم.",
+    "en": "Legacy SonarFix removed."
+  },
+  "uninstall": {
+    "ar": "إلغاء التثبيت",
+    "en": "Uninstall"
+  },
+  "install": {
+    "ar": "تثبيت",
+    "en": "Install"
+  },
+  "browse": {
+    "ar": "استعراض...",
+    "en": "Browse..."
+  },
+  "set_up_sonarfix": {
+    "ar": "إعداد SonarFix",
+    "en": "Set up SonarFix"
+  },
+  "install_location_2": {
+    "ar": "مكان التثبيت",
+    "en": "Install location"
+  },
+  "browse_2": {
+    "ar": "استعراض",
+    "en": "Browse"
+  },
+  "back": {
+    "ar": "السابق",
+    "en": "Back"
+  },
+  "uninstall_2": {
+    "ar": "إزالة التثبيت",
+    "en": "Uninstall"
+  },
+  "sonarfix_installed_successfully": {
+    "ar": "تم تثبيت SonarFix بنجاح",
+    "en": "SonarFix installed successfully"
+  },
+  "you_can_now_open_sonarfix_and_manage_your_selected_f": {
+    "ar": "يمكنك الآن تشغيل البرنامج وإدارة الميزات التي اخترتها.",
+    "en": "You can now open SonarFix and manage your selected features."
+  },
+  "finish": {
+    "ar": "إنهاء",
+    "en": "Finish"
+  },
+  "installing_sonarfix": {
+    "ar": "جارٍ تثبيت SonarFix",
+    "en": "Installing SonarFix"
+  },
+  "please_wait": {
+    "ar": "يرجى الانتظار…",
+    "en": "Please wait…"
+  },
+  "choose_a_local_install_directory": {
+    "ar": "اختر مجلد تثبيت محليًا.",
+    "en": "Choose a local install directory."
+  },
+  "select_an_active_physical_output_before_disabling_ga": {
+    "ar": "اختر مخرج صوت فعليًا متاحًا قبل تعطيل Game & Chat.",
+    "en": "Select an active physical output before disabling Game/Chat."
+  },
+  "sonarfix_could_not_stop_close_it_before_installing": {
+    "ar": "تعذر إيقاف SonarFix. أغلقه قبل التثبيت.",
+    "en": "SonarFix could not stop. Close it before installing."
+  },
+  "audio_options_were_not_applied_open_sonarfix_setting": {
+    "ar": "لم يتم تطبيق خيارات الصوت. افتح إعدادات SonarFix وافحص السجل المحلي.",
+    "en": "Audio options were not applied. Open SonarFix Settings and inspect the local log."
+  },
+  "the_audio_worker_is_missing_repair_the_installation_": {
+    "ar": "ملف برنامج الصوت مفقود. أصلح التثبيت أولًا حتى يمكن استعادة تغييرات الصوت.",
+    "en": "The audio worker is missing. Repair the installation before uninstalling so audio changes can be restored."
+  },
+  "restoration_is_incomplete_uninstall_has_stopped_so_t": {
+    "ar": "الاستعادة غير مكتملة. توقفت الإزالة للحفاظ على سجل الاستعادة.",
+    "en": "Restoration is incomplete. Uninstall has stopped so the recovery journal is preserved."
+  },
+  "running": {
+    "ar": "SonarFix يعمل",
+    "en": "SonarFix is running"
+  },
+  "stopped": {
+    "ar": "SonarFix متوقف",
+    "en": "SonarFix is stopped"
+  },
+  "start": {
+    "ar": "تشغيل SonarFix",
+    "en": "Start SonarFix"
+  },
+  "stop": {
+    "ar": "إيقاف SonarFix",
+    "en": "Stop SonarFix"
+  },
+  "status_unavailable": {
+    "ar": "حالة الصوت غير متاحة. افتح السجلات للتفاصيل.",
+    "en": "Audio status unavailable. Open logs for details."
+  },
+  "status_1": {
+    "ar": "جارٍ فحص حالة الصوت…",
+    "en": "Checking audio status…"
+  },
+  "status_2": {
+    "ar": "الخيارات محفوظة. شغّل SonarFix لمراقبة مشاركة الشاشة.",
+    "en": "Saved options remain. Start SonarFix to monitor screen sharing."
+  },
+  "status_3": {
+    "ar": "منع تكرار صوت الميكروفون متوقف.",
+    "en": "Duplicate mic prevention is off."
+  },
+  "status_4": {
+    "ar": "تم منع الصوت المكرر.",
+    "en": "Duplicate audio blocked."
+  },
+  "status_5": {
+    "ar": "جاهز لمنع تكرار الصوت.",
+    "en": "Ready to prevent duplicate audio."
+  },
+  "status_6": {
+    "ar": "بانتظار مشاركة الشاشة في Discord.",
+    "en": "Waiting for Discord screen sharing."
+  },
+  "status_7": {
+    "ar": "مسار الصوت غير مؤكد. لا يُطبّق كتم جديد.",
+    "en": "Audio route is uncertain. No new mute is applied."
+  },
+  "status_8": {
+    "ar": "جارٍ فحص حالة المخارج…",
+    "en": "Checking output status…"
+  },
+  "status_9": {
+    "ar": "الميزة متوقفة",
+    "en": "Feature off"
+  },
+  "status_10": {
+    "ar": "مخرجا Game & Chat معطّلان",
+    "en": "Game and Chat outputs are disabled"
+  },
+  "status_11": {
+    "ar": "اختر جهاز إخراج صوت متاحًا",
+    "en": "Choose an available audio output"
+  },
+  "status_12": {
+    "ar": "التغيير المطلوب غير مكتمل. افتح السجلات للتفاصيل.",
+    "en": "Requested change is not fully applied. Open logs for details."
+  },
+  "status_13": {
+    "ar": "استعادة الصوت غير مكتملة. افتح السجلات للتفاصيل.",
+    "en": "Audio restoration is pending. Open logs for details."
+  },
+  "applying": {
+    "ar": "جارٍ تطبيق التغييرات…",
+    "en": "Applying changes…"
+  },
+  "about_title": {
+    "en": "About SonarFix",
+    "ar": "حول SonarFix"
+  },
+  "restore_title": {
+    "en": "Restore Audio Settings",
+    "ar": "استعادة إعدادات الصوت"
+  },
+  "startup_section": {
+    "en": "Startup",
+    "ar": "التشغيل"
+  },
+  "close": {
+    "en": "Close",
+    "ar": "إغلاق"
+  },
+  "restore_action": {
+    "en": "Restore",
+    "ar": "استعادة"
+  },
+  "uninstall_question": {
+    "en": "Uninstall SonarFix from this device?",
+    "ar": "هل تريد إزالة SonarFix من هذا الجهاز؟"
+  },
+  "path_copied": {
+    "en": "Path copied.",
+    "ar": "تم نسخ المسار."
+  },
+  "installation_folder": {
+    "en": "Installation Folder",
+    "ar": "مجلد البرنامج"
+  },
+  "switch_language": {
+    "en": "التبديل إلى العربية",
+    "ar": "Switch to English"
+  },
+  "uninstall_title": {
+    "en": "Uninstall SonarFix",
+    "ar": "إزالة SonarFix"
+  },
+  "restore_question": {
+    "en": "Restore the audio settings changed by SonarFix?",
+    "ar": "هل تريد استعادة إعدادات الصوت التي غيّرها SonarFix؟"
+  },
+  "application_section": {
+    "en": "Application",
+    "ar": "معلومات البرنامج"
+  },
+  "copy_path": {
+    "en": "Copy path",
+    "ar": "نسخ المسار"
+  },
+  "uninstall_action": {
+    "en": "Uninstall",
+    "ar": "إزالة"
+  },
+  "about_description": {
+    "en": "Independent project. Not affiliated with SteelSeries or Discord. Unsigned build.",
+    "ar": "مشروع مستقل غير تابع لـ SteelSeries أو Discord. نسخة غير موقّعة."
+  },
+  "uninstall_description": {
+    "en": "SonarFix will stop its background components, remove its files, and attempt to restore the audio settings it changed.",
+    "ar": "ستُوقف خدمات البرنامج وتُزال ملفاته، مع محاولة استعادة إعدادات الصوت التي غيّرها."
+  },
+  "restore_description": {
+    "en": "Both audio features will be turned off to stop reapplying changes. Your other preferences will be kept.",
+    "ar": "ستتوقف ميزتا الصوت لمنع إعادة تطبيق التغييرات، مع الاحتفاظ ببقية إعدادات البرنامج."
+  },
+  "uninstall_section": {
+    "en": "Uninstall",
+    "ar": "إزالة التثبيت"
+  },
+  "open_folder": {
+    "en": "Open installation folder",
+    "ar": "فتح مجلد البرنامج"
+  },
+  "update_ignored": {
+    "en": "No valid stable release was returned.",
+    "ar": "لم يُعثر على إصدار مستقر صالح."
+  },
+  "device_disabled": {
+    "en": "Disabled",
+    "ar": "معطّل"
+  },
+  "update_not_checked": {
+    "en": "Use Check for Updates to query stable releases.",
+    "ar": "استخدم التحقق من التحديثات للبحث عن إصدار مستقر."
+  },
+  "health_start_monitor": {
+    "en": "Start SonarFix to enforce the saved selection. This check does not change devices.",
+    "ar": "شغّل SonarFix لتطبيق الاختيار المحفوظ. هذا الفحص لا يغيّر الأجهزة."
+  },
+  "device_unavailable": {
+    "en": "Unavailable",
+    "ar": "غير متاح"
+  },
+  "health_not_checked": {
+    "en": "Device health has not been checked.",
+    "ar": "لم تُفحص حالة الأجهزة بعد."
+  },
+  "automatic_updates": {
+    "en": "Check for updates daily",
+    "ar": "التحقق من التحديثات يوميًا"
+  },
+  "update_unavailable": {
+    "ar": "تعذر التحقق من التحديثات الآن. لا يؤثر ذلك على عمل الصوت.",
+    "en": "Couldn't check for updates right now. Audio features are not affected."
+  },
+  "health_unknown": {
+    "en": "Unable to verify audio devices. Check the logs.",
+    "ar": "تعذر التحقق من أجهزة الصوت. افحص السجلات."
+  },
+  "show_tray": {
+    "en": "Show System Tray Icon",
+    "ar": "إظهار أيقونة شريط النظام"
+  },
+  "health_unavailable": {
+    "en": "Device Unavailable",
+    "ar": "الجهاز غير متاح"
+  },
+  "update_unconfigured": {
+    "en": "The repository is not configured yet. Audio monitoring is unaffected.",
+    "ar": "لم يُحدد المستودع بعد. لا يؤثر ذلك على مراقبة الصوت."
+  },
+  "update_checking": {
+    "en": "Checking GitHub…",
+    "ar": "جارٍ التحقق من GitHub…"
+  },
+  "health_action": {
+    "en": "Action Required",
+    "ar": "يحتاج إلى إجراء"
+  },
+  "device_active": {
+    "en": "Available",
+    "ar": "متاح"
+  },
+  "health_monitor_retry": {
+    "en": "The monitor will retry the saved selection. Check again or open logs if this persists.",
+    "ar": "سيعيد المراقب محاولة تطبيق الاختيار المحفوظ. أعد الفحص أو افتح السجلات إذا استمرت الحالة."
+  },
+  "check_updates": {
+    "en": "Check for Updates",
+    "ar": "التحقق من التحديثات"
+  },
+  "update_current": {
+    "en": "You are up to date.",
+    "ar": "لديك أحدث إصدار مستقر."
+  },
+  "health_ready": {
+    "en": "Devices Ready",
+    "ar": "الأجهزة جاهزة"
+  },
+  "open_sonarfix": {
+    "en": "Open SonarFix",
+    "ar": "فتح SonarFix"
+  },
+  "preferences_failed": {
+    "en": "Preferences could not be saved.",
+    "ar": "تعذر حفظ التفضيلات."
+  },
+  "device_mixed": {
+    "en": "State mismatch",
+    "ar": "حالة غير متطابقة"
+  },
+  "current_version": {
+    "en": "Current Version",
+    "ar": "الإصدار الحالي"
+  },
+  "check_devices": {
+    "en": "Check Audio Devices",
+    "ar": "فحص أجهزة الصوت"
+  },
+  "exit_sonarfix": {
+    "en": "Exit (stop monitoring)",
+    "ar": "إنهاء (إيقاف المراقبة)"
+  },
+  "view_release": {
+    "en": "View Release",
+    "ar": "عرض الإصدار"
+  },
+  "update_available": {
+    "en": "A new stable version is available:",
+    "ar": "يتوفر إصدار مستقر جديد:"
+  },
+  "health_present": {
+    "en": "Present",
+    "ar": "موجود"
+  },
+  "health_review_settings": {
+    "ar": "راجع الخيارات المحفوظة أو استعد التغييرات المسجلة. هذا الفحص لا يغيّر الأجهزة.",
+    "en": "Review your saved options or restore recorded changes. This check does not change devices."
+  },
+  "welcome_description": {
+    "ar": "يمنع تكرار صوت الميكروفون في Discord، ويعطّل مخارج Sonar التي لا تحتاجها.",
+    "en": "Stops duplicate mic audio in Discord and turns off the Sonar outputs you don't need."
+  },
+  "installed_found": {
+    "ar": "SonarFix %1 مثبّت مسبقًا على هذا الجهاز.",
+    "en": "SonarFix %1 is already installed on this device."
+  },
+  "maintenance_title": {
+    "ar": "SonarFix مثبّت مسبقًا",
+    "en": "SonarFix is already installed"
+  },
+  "maintenance_description": {
+    "ar": "اختر ما تريد فعله بالتثبيت الحالي.",
+    "en": "Choose what to do with the current installation."
+  },
+  "option_update": {
+    "ar": "تحديث",
+    "en": "Update"
+  },
+  "option_update_description": {
+    "ar": "تثبيت الإصدار %1 مع الاحتفاظ بإعداداتك الحالية.",
+    "en": "Install version %1 and keep your current settings."
+  },
+  "option_modify": {
+    "ar": "تعديل",
+    "en": "Modify"
+  },
+  "option_modify_description": {
+    "ar": "مراجعة الميزات قبل تثبيت الإصدار %1.",
+    "en": "Review the features before installing version %1."
+  },
+  "option_uninstall": {
+    "ar": "إزالة التثبيت",
+    "en": "Uninstall"
+  },
+  "option_uninstall_description": {
+    "ar": "استعادة تغييرات الصوت التي أجراها SonarFix ثم إزالته.",
+    "en": "Restore the audio changes made by SonarFix, then remove it."
+  },
+  "next": {
+    "ar": "التالي",
+    "en": "Next"
+  },
+  "update_action": {
+    "ar": "تحديث",
+    "en": "Update"
+  },
+  "state_on": {
+    "ar": "مفعّل",
+    "en": "On"
+  },
+  "state_off": {
+    "ar": "متوقف",
+    "en": "Off"
+  },
+  "audio_diagnostics_section": {
+    "ar": "الصوت والتشخيص",
+    "en": "Audio & Diagnostics"
+  },
+  "health_title": {
+    "ar": "أجهزة الصوت",
+    "en": "Audio Devices"
+  },
+  "health_sonar": {
+    "ar": "SteelSeries Sonar",
+    "en": "SteelSeries Sonar"
+  },
+  "health_microphone": {
+    "ar": "ميكروفون Sonar",
+    "en": "Sonar Microphone"
+  },
+  "config_description": {
+    "ar": "اختر الميزات التي تريد استخدامها. يمكنك تعديلها لاحقًا في SonarFix.",
+    "en": "Choose the features you want. You can change them later in SonarFix."
+  },
+  "open_repository": {
+    "ar": "فتح مستودع SonarFix في GitHub",
+    "en": "Open the SonarFix repository on GitHub"
+  },
+  "status_device_unavailable": {
+    "ar": "جهاز الصوت غير متاح. تأكد أن ميكروفون Sonar مفعّل في SteelSeries GG.",
+    "en": "Audio device unavailable. Make sure the Sonar Microphone is enabled in SteelSeries GG."
+  }
+}
