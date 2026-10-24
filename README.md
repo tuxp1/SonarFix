@@ -35,6 +35,20 @@
 | **Diagnostics & Logs** | Opens the log folder, or exports a diagnostics file you can attach to a bug report. Nothing is sent anywhere. |
 | **Installer & Uninstaller** | Per-user installer with Update, Modify and Uninstall. Uninstalling restores recorded audio changes before removing files. |
 
+## Screenshots
+
+### English
+
+<p align="center">
+  <img src="docs/screenshots/english.png" width="720" alt="SonarFix settings window in English">
+</p>
+
+### Arabic
+
+<p align="center">
+  <img src="docs/screenshots/arabic.png" width="720" alt="SonarFix settings window in Arabic">
+</p>
+
 ## Download
 
 Download the latest `SonarFix-Setup-x.y.exe` from the [**Releases**](https://github.com/tuxp1/SonarFix/releases/latest) page. Each release lists the SHA-256 checksum of the installer so you can verify the download:
@@ -81,16 +95,6 @@ SonarFix has two parts: a small background worker (`SonarFix.exe`) and the setti
 - **Safety.** Every change is saved to a recovery journal under `%LOCALAPPDATA%\SonarFix`. Stop, Restore and Uninstall put back what SonarFix changed.
 
 SonarFix does not capture, record or upload audio, and it does not send diagnostics anywhere. The only network request is the optional update check to the GitHub Releases API of the official repository, `tuxp1/SonarFix`.
-
-## Screenshots
-
-Screenshots of the app and the installer will be added here.
-
-<!--
-Add real screenshots to docs/screenshots/ and reference them here, for example:
-![SonarFix settings](docs/screenshots/settings.png)
-![SonarFix installer](docs/screenshots/installer.png)
--->
 
 ## Troubleshooting
 
